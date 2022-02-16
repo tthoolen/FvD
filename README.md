@@ -23,19 +23,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Opdracht 1 plan
 
 <details open>
-  <summary>uitwerken na schetsen idee (voor week 2)</summary>
+  <summary>Het logo dat ik heb gekozen is het logo van Perfectly Basics. Dit is een online kleding webshop met premium dames mode. Ik heb er dan ook voor gekozen om de letters van het logo in het begin van mijn annimatie tevoorschijn te laten komen uit een kledingkast. Eerst zal de rechter deur open gaan en daarna de linker deur. Hierna zal het logo iets vergroten en komt de omlijning vanaf onder in beeld tevoorschijnt en 'loopt' deze een route om de letters heen tot het het eind logo vormt. </summary>
 
 
   ### Je storyboard:
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="storyboard voor opdracht 1">
+  <img src="readme-images/storyboard.png" width="375px" alt="storyboard voor opdracht 1">
 
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - punt 1: Ik vind het belangrijk dat ik het basis-annimeren beter onder de knie krijg omdat dit mijn eerste kennismaking hiermee is.  
+  - punt 2: Ik wil sneller een link kunnen leggen tussen opmaak en elementen omdat ik hier soms nog wel moeite mee heb
  
 </details>
 
