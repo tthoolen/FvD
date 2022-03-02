@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** Thasja Thoolen
 
 **De opdrachten:** [opdracht 1](opdracht1/index.html) en [opdracht 2](opdracht2/index.html)
 
@@ -57,7 +57,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatje(s)
-
+  <summary>Ik heb in het begin van deze opdracht veel moeite gehad met het font. Deze had ik opgestuurd gekregen van PB zelf, alleen was het nog een heel proces om deze werkend te krijgen in mijn website</summary>
   <img src="readme-images/dummy-plaatje.svg" width="375px" alt="bummer">
 </details>
 
